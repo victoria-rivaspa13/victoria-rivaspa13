@@ -33,8 +33,6 @@ Now, as a Computer Engineering student, I’m applying those foundational skills
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/victoria-rivas-patrese-320254286)
-[![Instagram](https://www.instagram.com/vicky.rivaspa13/?hl=en)]
-
 ---
 
 > “With curiosity, perseverance, and a passion for learning, I turn challenges into opportunities and build the future—one project at a time.”
